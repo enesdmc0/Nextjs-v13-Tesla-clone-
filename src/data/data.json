@@ -1,0 +1,100 @@
+{
+  "productPromotion": [
+    {
+      "id": 1,
+      "name": "Model Y",
+      "image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/dfa1ee09-8585-422e-a32a-067e14159aa0/bvlatuR/std/2880x2400/Homepage-Model-Y-Global-Desktop?quality=auto-medium&amp;format=auto",
+      "href": ""
+    },
+    {
+      "id": 2,
+      "name": "Model 3",
+      "image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/a269d7b4-87a9-4057-9ac5-2565e56a188e/bvlatuR/std/4096x2560/Homepage-Model-3-Desktop-LHD?quality=auto-medium&amp;format=auto",
+      "href": ""
+    },
+    {
+      "id": 3,
+      "name": "Model S",
+      "image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/898c2038-c428-452c-84bf-034d5c48ca8e/bvlatuR/std/4096x2560/Model-S-homepage-desktop",
+      "href": ""
+    },
+    {
+      "id": 4,
+      "name": "Model X",
+      "image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/adf93943-f1b8-41d6-a47c-f6009ea1c836/bvlatuR/std/2880x1800/Homepage-Model-X-Desktop-LHD?quality=auto-medium&amp;format=auto",
+      "href": ""
+    },
+    {
+      "id": 5,
+      "name": "Solar Panels",
+      "image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/16b04537-a4be-4bf9-8637-86862a858da8/bvlatuR/std/2880x1800/_25-HP-SolarPanels-D",
+      "href": ""
+    },
+    {
+      "id": 6,
+      "name": "Solar Roof",
+      "image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/4a41ec0e-7316-46a8-8ce9-e2f195ba644d/bvlatuR/std/2880x1800/Homepage-SolarRoof-Desktop-Global?quality=auto-medium&format=auto",
+      "href": ""
+    },
+    {
+      "id": 7,
+      "name": "Accessories",
+      "image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/dd739764-bcaa-4263-9488-8c73bc9fb046/bvlatuR/std/0x0/dd739764-bcaa-4263-9488-8c73bc9fb046",
+      "href": ""
+    }
+  ],
+  "header": [
+    {
+      "id": 1,
+      "text": "Model S",
+      "href": "/"
+    },
+    {
+      "id": 2,
+      "text": "Model 3",
+      "href": "/"
+    },
+    {
+      "id": 3,
+      "text": "Model X",
+      "href": "/"
+    },
+    {
+      "id": 4,
+      "text": "Model Y",
+      "href": "/"
+    },
+    {
+      "id": 5,
+      "text": "Solar Roof",
+      "href": "/"
+    },
+    {
+      "id": 6,
+      "text": "Solar Panels",
+      "href": "/"
+    },
+    {
+      "id": 7,
+      "text": "Powerwall",
+      "href": "/"
+    },
+    {
+      "id": 8,
+      "text": "Shop",
+      "href": "/"
+    },
+    {
+      "id": 9,
+      "text": "Account",
+      "href": "/"
+    },
+    {
+      "id": 10,
+      "text": "Menu",
+      "href": ""
+    }
+  ],
+  "footer": ["Tesla © 2023", "Privacy & Legal", "Vehicle Recalls", "Contact", "Careers", "News", "Engage", "Locations"],
+  "navbar": ["Existing Inventory", "Used Inventory", "Trade-In", "Demo Drive", "Insurance", "Fleet", "Cybertruck", "Roadster", "Semi", "Charging", "Commercial Energy", "Utilities", "Careers", "Find Us", "Support", "Investor Relations"]
+}
