@@ -10,6 +10,9 @@ html, body {
     overflow-x: hidden;
 }
 
+::-webkit-scrollbar{
+    width: 0;
+}
 
 .label {
     @apply flex-1 flex flex-col w-[400px] text-[#5C5E62] font-medium text-[14px] gap-2
